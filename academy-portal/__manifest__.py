@@ -11,7 +11,9 @@
         """,
 
     'description': """
-        Long description of module's purpose
+        Estudiantes: Ver sus clases preseleccionada o asignadas al estudiante, calificaciones y actividades a realizar.
+        Profesores:
+        Biblioteca: Documentos disponible para utilizar en las asignaturas.
     """,
 
     'author': "STARLEAN",
