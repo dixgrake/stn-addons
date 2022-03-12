@@ -4,7 +4,7 @@
 
     'summary': """
     Este aplicacion le permitara gestionar los procesos de un centros de educacion, Universidad
-    Escuelas de nivel primaria y secundaria.
+    y Escuelas de nivel primaria y secundaria.
         """,
 
     'description': """
