@@ -3,8 +3,12 @@
     'name': "Academy Portal",
 
     'summary': """
-        Short (1 phrase/line) summary of the module's purpose, used as
-        subtitle on modules listing or apps.openerp.com""",
+        El portal de la academia le permitara a los estudiantes tener acceso a la plataforma
+        para tomar clases en linea y ver sus asigturadas seleccionadas.
+        
+        Podra manejar videoconferencia y entregar sus trabajos a traves de las tareas habilitada
+        en el portal del estudiante.
+        """,
 
     'description': """
         Long description of module's purpose
