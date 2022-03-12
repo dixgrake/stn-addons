@@ -5,6 +5,8 @@
     'summary': """
     Este aplicacion le permitara gestionar los procesos de un centros de educacion, Universidad
     y Escuelas de nivel primaria y secundaria.
+
+    Universidad: Podra manejar los estudiantes, profesores, asignaturas, y biblioteca en linea.
         """,
 
     'description': """
