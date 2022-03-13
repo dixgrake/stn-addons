@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 
- from odoo import models, fields, api
+from odoo import models, fields, api
 
 
- class academy(models.Model):
+class academy(models.Model):
      _name = 'academy.academy'
      _description = 'academy.academy'
 
